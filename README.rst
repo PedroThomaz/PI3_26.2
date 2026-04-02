@@ -1,4 +1,4 @@
-Módulo CAN para depuração do barco solar (Exemplo do nome do projeto)
+Módulo CAN para depuração do barco solar (Exemplo do nome do projeto)(Teste)
 #####################################################################
 
 .. contents::
